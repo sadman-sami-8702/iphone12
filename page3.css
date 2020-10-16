@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+}
+.text {
+    color: white;
+    text-align: center;
+    font-size: 550%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: black;
+  }
+  
+  .button2 {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #008CBA;
+    color: black;
+  }
+  
+  .button3 {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #f44336;
+  }
+  
+  .button3:hover {
+    background-color: #f44336;
+    color: black;
+  }
+  
+  .button4 {
+    background-color: black;
+    color: white;
+    border: 2px solid #e7e7e7;
+  }
+  
+  .button4:hover {
+      background-color: #e7e7e7;
+      color: black;
+    }
+  
+  .button5 {
+    background-color: black;
+    color: white;
+    border: 2px solid #555555;
+  }
+  
+  .button5:hover {
+    background-color: rgb(32, 32, 32);
+    color: white;
+  }
+
+.btn-align {
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.janina {
+    margin-top: 170px;
+}
+a {
+    text-decoration: none;
+  }

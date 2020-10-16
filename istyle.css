@@ -1,0 +1,53 @@
+.body {
+    background-color: black;
+    background-image: url(iphone.jpg);
+}
+.texx {
+    color: white;
+    text-align: center;
+    font-size: 550%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("iphone.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .btn {
+    border: 2px solid black;
+    background-color: transparent;
+    color: black;
+    padding: 14px 28px;
+    font-size: 30px;
+    cursor: pointer;
+    align-content: center;
+    position: absolute;
+    margin-top: 465px;
+    margin-left: 560px;
+  }
+  
+  /* Green */
+  .success {
+    border-color: #4CAF50;
+    color:white;
+  }
+  .success:hover {
+    background-color: #4CAF50;
+    color: currentColor;
+  }  
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    margin-left: 480px;
+    
+}
+
+.text {
+    color: #e04350;
+    text-align: center;
+    font-size: 500%;
+}
+
+.text2 {
+    text-align: center;
+    color: #a63d46;
+    font-size: 160%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ttt {
+    margin-top: 80px;
+}

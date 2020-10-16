@@ -1,0 +1,33 @@
+.body {
+    background-color: black;
+}
+.text1 {
+    color: white;
+    text-align: center;
+    font-size: 550%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    padding-top: 10px ;
+    padding-bottom: 10px;
+}
+.gender {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+a {
+    text-decoration: none;
+}
+.janina {
+    margin-top: 100px;
+}
+
+.card-header {
+    background-color: yellowgreen;
+}
+
+.card-footer {
+    background-color: yellowgreen;
+}
